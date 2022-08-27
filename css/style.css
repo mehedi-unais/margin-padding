@@ -1,0 +1,15 @@
+h1{
+	color: red;
+}
+h1 span{
+	color: blue;
+}
+
+.frame{
+	width: 560px; height: 315px;
+}
+.frame2{
+	width: 50%;
+	height: 375px;
+	margin: 0px 0px 0px 200px;
+}

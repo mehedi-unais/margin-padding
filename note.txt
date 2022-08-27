@@ -1,0 +1,44 @@
+margin padding
+
+1. margin: 100px; (100px) top, bottom, left, right
+
+2. margin: 50px 100px; (50px)top-bottom, (100px)left-right
+
+3. margin: 50px 100px 50px; (50px) top, (100px) left-right, (50px) bottom
+
+4. margin: 50px 80px 100px 50px; (50px)top, (80px)right, (100px)bottom, (50px)left
+
+
+
+1. padding: 100px; (100px) top, bottom, left, right
+
+2. padding: 50px 100px; (50px)top-bottom, (100px)left-right
+
+3. padding: 50px 100px 50px; (50px) top, (100px) left-right, (50px) bottom
+
+4. padding: 50px 80px 100px 50px; (50px)top, (80px)right, (100px)bottom, (50px)left
+
+
+block level - inline element
+
+display
+   inline
+   block
+   inline - block
+
+   box model concept
+
+   content>padding>border>margin
+
+   semactic markup-non semactic markup
+
+   header
+   footer
+   aside
+   section
+   main
+
+   div
+   span
+
+   
